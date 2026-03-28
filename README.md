@@ -15,11 +15,6 @@ This project implements a K-Nearest Neighbors (KNN) machine learning algorithm e
 ## How to Run 
 
 Since this project uses no external libraries, running it is incredibly simple.
-
-**1. Clone or download the repository**
-Ensure you have the `fundamental project.py` file on your local machine.
-
-**2. Run the script**
 Open your terminal, navigate to the folder containing the file and execute:
 
 
@@ -40,13 +35,13 @@ When you enter your details, the algorithm calculates the distance between your 
 ## Inputs Required
 When prompted, you will need to provide the following details:
 
-**1] Study hours per day** (1.0 to 10.0)
+**1] Study hours per day** (1 to 10)
 
-**2] Attendance percentage** (40.0 to 100.0)
+**2] Attendance percentage** (40 to 100)
 
-**3] Previous exam score** (30.0 to 100.0)
+**3] Previous exam score** (30 to 100)
 
 **4] Assignments completed** (0 to 10)
 
-**5] Sleep hours per night** (4.0 to 9.0)
+**5] Sleep hours per night** (4 to 9)
 
